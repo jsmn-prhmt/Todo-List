@@ -2,4 +2,4 @@
 
 Javascript, Bootstrap & Fontawsome Library
 
-Demo: https://td-lst.netlify.app
+Live at https://td-lst.netlify.app
